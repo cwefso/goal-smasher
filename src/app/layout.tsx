@@ -5,17 +5,17 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PWA with Next 13",
+  title: "Goal Smasher",
   description: "PWA application with Next 13",
   generator: "Next.js",
   manifest: "/manifest.json",
   keywords: ["nextjs", "nextjs13", "next13", "pwa", "next-pwa"],
   themeColor: [{ media: "(prefers-color-scheme: dark)", color: "#fff" }],
   authors: [
-    { name: "Rajesh Prajapati" },
+    { name: "Charles Wefso" },
     {
-      name: "Rajesh Prajapati",
-      url: "https://www.linkedin.com/in/raazeshp96/",
+      name: "Charles Wefso",
+      url: "https://www.linkedin.com/in/charles-wefso/",
     },
   ],
   viewport:
