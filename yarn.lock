@@ -1044,6 +1044,13 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@knocklabs/node@^0.6.11":
+  version "0.6.11"
+  resolved "https://registry.npmjs.org/@knocklabs/node/-/node-0.6.11.tgz"
+  integrity sha512-eCln5vHE/QTonDAK13ci5RCJ9el5snq/NQeAAmbVyZI7CsrHPUGW2sEOH6D9z/HyEKYki2sUHbTC0xG383EMhg==
+  dependencies:
+    jose "^5.2.0"
+
 "@next/env@13.5.2":
   version "13.5.2"
   resolved "https://registry.npmjs.org/@next/env/-/env-13.5.2.tgz"
@@ -3002,6 +3009,11 @@ jiti@^1.18.2:
   version "1.20.0"
   resolved "https://registry.npmjs.org/jiti/-/jiti-1.20.0.tgz"
   integrity sha512-3TV69ZbrvV6U5DfQimop50jE9Dl6J8O1ja1dvBbMba/sZ3YBEQqJ2VZRoQPVnhlzjNtU1vaXRZVrVjU4qtm8yA==
+
+jose@^5.2.0:
+  version "5.4.0"
+  resolved "https://registry.npmjs.org/jose/-/jose-5.4.0.tgz"
+  integrity sha512-6rpxTHPAQyWMb9A35BroFl1Sp0ST3DpPcm5EVIxZxdH+e0Hv9fwhyB3XLKFUcHNpdSDnETmBfuPPTTlYz5+USw==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
